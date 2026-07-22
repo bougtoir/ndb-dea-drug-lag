@@ -1,0 +1,83 @@
+{
+  "design_note": "NDB begins FY2014, coincident with IFN-free DAA availability; no internal pre-intervention baseline, so a conventional pre/post ITS is not identifiable. Reported below are descriptive segmented and exponential trend models with HAC and bootstrap 95% intervals (n=10 annual observations).",
+  "n_annual_observations": 10,
+  "bootstrap_resamples": 10000,
+  "daa_segmented": {
+    "knot_fy": 2015,
+    "pre_peak_annual_rate_pct": 71.31371447940069,
+    "pre_peak_annual_rate_hac95": [
+      16.116454017241153,
+      152.74961259471397
+    ],
+    "pre_peak_annual_rate_boot95": [
+      -8.605104265370251,
+      166.77799071804247
+    ],
+    "post_peak_annual_rate_pct": -24.953560299980992,
+    "post_peak_annual_rate_boot95": [
+      -29.185348657434112,
+      -20.47897690343805
+    ],
+    "slope_change_logunits": -0.8253893453872507,
+    "slope_change_hac95": [
+      -1.284832671946073,
+      -0.3659460188284284
+    ],
+    "slope_change_p": 0.00042980463498874306,
+    "n_obs": 10
+  },
+  "peginterferon_decay": {
+    "drug": "peginterferon",
+    "fy_used": [
+      2014,
+      2023
+    ],
+    "annual_change_pct": -36.437669782685965,
+    "annual_change_hac95": [
+      -47.15898503374475,
+      -23.541025371390734
+    ],
+    "annual_change_boot95": [
+      -44.66630897236675,
+      -27.006106073300028
+    ],
+    "annual_change_p": 1.5261995107243892e-06,
+    "n_obs": 10
+  },
+  "conventional_ifn_decay": {
+    "drug": "interferon_conventional",
+    "fy_used": [
+      2014,
+      2023
+    ],
+    "annual_change_pct": -24.729527753634486,
+    "annual_change_hac95": [
+      -25.73154742740983,
+      -23.713988969229348
+    ],
+    "annual_change_boot95": [
+      -25.640602373614463,
+      -23.796273338888604
+    ],
+    "annual_change_p": 0.0,
+    "n_obs": 10
+  },
+  "ribavirin_decay": {
+    "drug": "ribavirin",
+    "fy_used": [
+      2014,
+      2019
+    ],
+    "annual_change_pct": -75.75488101599043,
+    "annual_change_hac95": [
+      -85.37740263443374,
+      -59.80017914375383
+    ],
+    "annual_change_boot95": [
+      -89.499078032989,
+      -44.32874253466362
+    ],
+    "annual_change_p": 3.96669281833408e-08,
+    "n_obs": 6
+  }
+}

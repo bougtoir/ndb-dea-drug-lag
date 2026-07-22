@@ -1,0 +1,9 @@
+fy,event_month,drug_ja,drug_en,milestone,precision,label_ja,label_en,source
+2014,2014-07,ダクルインザ＋スンベプラ,daclatasvir + asunaprevir,approval,day(2014-07-04),世界初の全経口・IFN/リバビリン不要のC型慢性肝炎治療が製造販売承認,World-first all-oral interferon/ribavirin-free chronic hepatitis C regimen approved,"承認年月日 2014-07-04 (スンベプラカプセル/ダクルインザ錠 添付文書); Bristol-Myers Squibb K.K. press release 2014-07-04"
+2014,2014-09,ダクルインザ＋スンベプラ,daclatasvir + asunaprevir,nhi_listing,day(2014-09-02),薬価基準収載（保険償還開始）,NHI drug-price listing (reimbursement begins),"薬価基準収載日 2014-09-02 (添付文書); 発売 2014-09-03 (BMS press release 2014-09-03)"
+2015,2015-03,ソバルディ,sofosbuvir,approval,day(2015-03-26),ソホスブビル 製造販売承認,Sofosbuvir approved,"ソバルディ錠 承認年月日 2015-03-26 (添付文書 / インタビューフォーム)"
+2015,2015-05,ソバルディ,sofosbuvir,nhi_listing,day(2015-05-20),ソホスブビル 薬価基準収載,Sofosbuvir NHI-listed,"薬価収載 2015-05-20 (中医協 2015-05-13 総会決定; 厚労省保険局医療課通知 保医発0519第1号)"
+2015,2015-07,ハーボニー,ledipasvir/sofosbuvir,approval,day(2015-07-03),レジパスビル/ソホスブビル 製造販売承認,Ledipasvir/sofosbuvir approved,"MHLW 製造販売承認 2015-07-03 (朝日新聞 2015-07-04 報道; 添付文書)"
+2015,2015-08,ハーボニー,ledipasvir/sofosbuvir,nhi_listing,day(2015-08-31),レジパスビル/ソホスブビル 薬価基準収載,Ledipasvir/sofosbuvir NHI-listed,"ハーボニー配合錠 薬価収載日 2015-08-31 (添付文書)"
+2017,2017-09,マヴィレット,glecaprevir/pibrentasvir,approval,day(2017-09-27),グレカプレビル/ピブレンタスビル 製造販売承認（パンジェノタイプ）,Glecaprevir/pibrentasvir approved (pangenotypic),"製造販売承認 2017-09-27 (PMDA/MHLW; AbbVie GK)"
+2017,2017-11,マヴィレット,glecaprevir/pibrentasvir,nhi_listing,day(2017-11-22),グレカプレビル/ピブレンタスビル 薬価基準収載,Glecaprevir/pibrentasvir NHI-listed,"マヴィレット配合錠 薬価収載日 2017-11-22 (中医協 2017-11-15 総会決定; 添付文書); 発売 2017-11-27"

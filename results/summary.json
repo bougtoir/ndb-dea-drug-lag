@@ -1,0 +1,27 @@
+{
+  "data_source": "NDB Open Data editions 1-10 (FY2014-FY2023), 処方薬 性年齢別薬効分類別数量",
+  "metric": "総計 (処方数量) national dispensed quantity; units differ across products",
+  "fiscal_year_range": [
+    2014,
+    2023
+  ],
+  "peginterferon": {
+    "fy_first": 619332.82485,
+    "fy_last": 4836.5,
+    "pct_change_first_to_last": -99.21907901439401
+  },
+  "ribavirin": {
+    "fy_first": 10166158.65,
+    "fy_last": 0.0,
+    "first_year_near_zero": 2018
+  },
+  "daa_total": {
+    "peak_fy": 2015,
+    "peak_value": 19374861.0,
+    "fy_first": 6736615.941199999,
+    "fy_last": 1527987.0,
+    "pct_change_peak_to_last": -92.11355890501615,
+    "pct_change_first_to_peak": 187.6052482301483
+  },
+  "n_distinct_daa_products": 9
+}
