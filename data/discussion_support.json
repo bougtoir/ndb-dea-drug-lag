@@ -1,0 +1,51 @@
+{
+  "note": "Numbers in the Discussion and Introduction that come from cited literature, not from the present analysis. Kept in data/ so the manuscript generator reads them rather than hard-coding literals. Sources: Tanaka 2018 (carriers), Yamashita 2025 (DAA-treated patients and costs), MMWR 2022 (US insured DAA initiation), omata/mizokami/JSH (sustained virologic response), Polaris Observatory 2022 (global burden and treatment), Razavi 2020 / Gamkrelidze 2021 (high-income countries on track for 2030), Hajarizadeh 2018 (Australian DAA uptake 2016), Chien 2021 (Taiwan national treatment target). All values are taken from the abstracts of the cited papers.",
+  "carriers_2018": {
+    "reference_key": "carriers",
+    "hcv_patients_in_care_2011": 520600,
+    "hcv_diagnosed_untreated_2011": {"low": 167923, "high": 767923}
+  },
+  "yamashita_2025": {
+    "reference_key": "yamashita",
+    "healthcare_coverage_pct": 98,
+    "hcv_patients_treated_daa_2013_2022": 357877,
+    "care_prevalence_fall_pct": 40,
+    "hepatitis_c_cost_peak_year": 2015
+  },
+  "mmwr_2022": {
+    "reference_key": "mmwr",
+    "dAA_treatment_within_1_year_pct": {"medicaid": 23, "medicare": 28, "private": 35}
+  },
+  "polaris_2022": {
+    "reference_key": "polaris",
+    "viraemic_infections_2020_millions": 56.8,
+    "treatment_initiations_2020": 641000
+  },
+  "razavi_2020": {
+    "reference_key": "razavi",
+    "high_income_countries_analyzed": 45,
+    "countries_on_track_2030": 9,
+    "assessment_year": 2017
+  },
+  "gamkrelidze_2021": {
+    "reference_key": "gamkrelidze",
+    "high_income_countries_analyzed": 45,
+    "countries_on_track_2030": 11,
+    "assessment_year": 2019
+  },
+  "hajarizadeh_2018": {
+    "reference_key": "hajarizadeh",
+    "australia_daa_initiations_2016": 32400,
+    "australia_pct_of_chronic_hcv_2016": 14,
+    "program_start": "March 2016"
+  },
+  "chien_2021": {
+    "reference_key": "taiwan",
+    "taiwan_treatment_target_patients": 250000,
+    "taiwan_treatment_target_year": 2025
+  },
+  "dAA_phase3_response": {
+    "cure_rate_pct_min": 90,
+    "treatment_duration_weeks": {"low": 8, "high": 12}
+  }
+}

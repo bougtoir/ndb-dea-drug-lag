@@ -1,0 +1,316 @@
+{
+  "data_source": "NDB Open Data editions 1-10 (FY2014-FY2023), 処方薬 性年齢別薬効分類別数量",
+  "metric": "総計 (処方数量) national dispensed quantity; units differ across products",
+  "fiscal_year_range": [
+    2014,
+    2023
+  ],
+  "peginterferon": {
+    "fy_first": 619332.82485,
+    "fy_last": 4836.5,
+    "pct_change_first_to_last": -99.21907901439401
+  },
+  "ribavirin": {
+    "classification_note": "Reported separately, NOT as part of interferon-based therapy: ribavirin was co-administered both with peginterferon (interferon-based therapy) and with sofosbuvir in the interferon-free sofosbuvir + ribavirin regimen, so its dispensing mixes old and new regimens.",
+    "fy_first": 10166158.65,
+    "fy_last": 0.0,
+    "first_year_near_zero": 2018,
+    "first_year_below_publication_threshold": 2020,
+    "rebound": {
+      "from_fy": 2018,
+      "to_fy": 2019,
+      "from_value": 3124.5,
+      "to_value": 62956.0,
+      "increase": 59831.5,
+      "fold_increase": 20.149143863018082
+    },
+    "rebound_note": "The apparent year-on-year increase is within the range that unpublished cells could hide (see censoring.series_observed_vs_upper.ribavirin) and is therefore not interpretable as a real rebound.",
+    "rebound_within_censoring_bound": true,
+    "pct_change_first_to_last": -100.0,
+    "upper_bound_fy_last": 62561.0
+  },
+  "interferon_conventional": {
+    "role_note": "Not hepatitis-C-specific (also used for other indications); used as a non-HCV-specific background comparator series.",
+    "fy_first": 326801.59933,
+    "fy_last": 21673.0,
+    "pct_change_first_to_last": -93.36814751077308
+  },
+  "protease_inhibitors_with_interferon": {
+    "role_note": "First-generation NS3/4A protease inhibitors (telaprevir, simeprevir, vaniprevir) given with peginterferon + ribavirin; markers of interferon-BASED triple therapy.",
+    "fy_first": 826748.0,
+    "fy_first_upper_bound": 1132423.0,
+    "first_year_below_publication_threshold": 2016,
+    "upper_bound_fy_last": 187965.0
+  },
+  "daa_total": {
+    "peak_fy": 2015,
+    "peak_value": 19374861.0,
+    "fy_first": 6736615.941199999,
+    "fy_last": 1527987.0,
+    "pct_change_peak_to_last": -92.11355890501615,
+    "pct_change_first_to_peak": 187.6052482301483
+  },
+  "daa_total_upper_bound": {
+    "peak_fy": 2015,
+    "peak_value": 19374861.0,
+    "fy_last": 1966572.0,
+    "pct_change_peak_to_last": -89.84987814880323
+  },
+  "n_distinct_daa_products": 9,
+  "censoring": {
+    "rule": "NDB Open Data lists only the top-N products by dispensed quantity within each therapeutic class and care-setting sheet (N = 30, 100 or 500 depending on edition and class) and shows any cell below 1,000 as '-'. Products or cells that are not published are treated as 0 in the observed (lower-bound) series; the upper-bound series adds the largest quantity each unpublished cell could contain (the smallest published total of the class-sheet when the listing cap was reached, otherwise 999).",
+    "suppression_threshold": 1000,
+    "n_target_rows": 391,
+    "n_suppressed_target_cells": 105,
+    "n_unpublished_product_sheet_years_bounded": 260,
+    "oral_antiviral_listing_cap_by_fy": {
+      "2014": 30,
+      "2015": 100,
+      "2016": 100,
+      "2017": 100,
+      "2018": 100,
+      "2019": 100,
+      "2020": 100,
+      "2021": 100,
+      "2022": 100,
+      "2023": 100
+    },
+    "oral_antiviral_outpatient_pharmacy_min_listed_total_by_fy": {
+      "2014": 668682.1,
+      "2015": 56001.615,
+      "2016": 62798.42500000001,
+      "2017": 97575.5,
+      "2018": 125529.0,
+      "2019": 117188.53,
+      "2020": 76680.0,
+      "2021": 57720.0,
+      "2022": 55927.0,
+      "2023": 41959.0
+    },
+    "daa_total_pct_hidden_max_by_fy": {
+      "2014": 0.0,
+      "2015": 0.0,
+      "2016": 0.0,
+      "2017": 5.85613077856574,
+      "2018": 16.495490109124315,
+      "2019": 34.071253398074205,
+      "2020": 33.288031198645264,
+      "2021": 28.243131154479567,
+      "2022": 33.894288796660085,
+      "2023": 28.70345101103609
+    },
+    "daa_total_pct_hidden_max_overall": 34.071253398074205,
+    "series_observed_vs_upper": {
+      "DAA": {
+        "2014": {
+          "observed": 6736615.9412,
+          "upper_bound": 6736615.9412
+        },
+        "2015": {
+          "observed": 19374861.0,
+          "upper_bound": 19374861.0
+        },
+        "2016": {
+          "observed": 6783118.0,
+          "upper_bound": 6783118.0
+        },
+        "2017": {
+          "observed": 5062848.0,
+          "upper_bound": 5359335.0
+        },
+        "2018": {
+          "observed": 5051120.0,
+          "upper_bound": 5884327.0
+        },
+        "2019": {
+          "observed": 3165028.0,
+          "upper_bound": 4243392.71
+        },
+        "2020": {
+          "observed": 2356769.0,
+          "upper_bound": 3141291.0
+        },
+        "2021": {
+          "observed": 1994076.0,
+          "upper_bound": 2557265.5
+        },
+        "2022": {
+          "observed": 1545191.0,
+          "upper_bound": 2068922.5
+        },
+        "2023": {
+          "observed": 1527987.0,
+          "upper_bound": 1966572.0
+        }
+      },
+      "IFN_conv": {
+        "2014": {
+          "observed": 326801.59933,
+          "upper_bound": 328799.59933
+        },
+        "2015": {
+          "observed": 224563.19767,
+          "upper_bound": 227560.19767
+        },
+        "2016": {
+          "observed": 168967.0331,
+          "upper_bound": 171964.0331
+        },
+        "2017": {
+          "observed": 130383.467,
+          "upper_bound": 133380.467
+        },
+        "2018": {
+          "observed": 103120.0,
+          "upper_bound": 106117.0
+        },
+        "2019": {
+          "observed": 75458.5,
+          "upper_bound": 78455.5
+        },
+        "2020": {
+          "observed": 54982.00966,
+          "upper_bound": 56980.00966
+        },
+        "2021": {
+          "observed": 45146.528,
+          "upper_bound": 47144.528
+        },
+        "2022": {
+          "observed": 35298.0,
+          "upper_bound": 37296.0
+        },
+        "2023": {
+          "observed": 21673.0,
+          "upper_bound": 23671.0
+        }
+      },
+      "IFN_peg": {
+        "2014": {
+          "observed": 619332.82485,
+          "upper_bound": 621330.82485
+        },
+        "2015": {
+          "observed": 131080.535,
+          "upper_bound": 134077.535
+        },
+        "2016": {
+          "observed": 33687.981,
+          "upper_bound": 35685.981
+        },
+        "2017": {
+          "observed": 21176.054,
+          "upper_bound": 24173.054
+        },
+        "2018": {
+          "observed": 14162.5,
+          "upper_bound": 17159.5
+        },
+        "2019": {
+          "observed": 10961.2,
+          "upper_bound": 13958.2
+        },
+        "2020": {
+          "observed": 8012.8,
+          "upper_bound": 11009.8
+        },
+        "2021": {
+          "observed": 7533.8,
+          "upper_bound": 10530.8
+        },
+        "2022": {
+          "observed": 7072.57,
+          "upper_bound": 9070.57
+        },
+        "2023": {
+          "observed": 4836.5,
+          "upper_bound": 6834.5
+        }
+      },
+      "PI_ifn": {
+        "2014": {
+          "observed": 826748.0,
+          "upper_bound": 1132423.0
+        },
+        "2015": {
+          "observed": 173122.0,
+          "upper_bound": 342749.23
+        },
+        "2016": {
+          "observed": 0.0,
+          "upper_bound": 284822.775
+        },
+        "2017": {
+          "observed": 0.0,
+          "upper_bound": 444730.5
+        },
+        "2018": {
+          "observed": 0.0,
+          "upper_bound": 530758.5
+        },
+        "2019": {
+          "observed": 0.0,
+          "upper_bound": 506392.59
+        },
+        "2020": {
+          "observed": 0.0,
+          "upper_bound": 336918.0
+        },
+        "2021": {
+          "observed": 0.0,
+          "upper_bound": 241864.5
+        },
+        "2022": {
+          "observed": 0.0,
+          "upper_bound": 233392.5
+        },
+        "2023": {
+          "observed": 0.0,
+          "upper_bound": 187965.0
+        }
+      },
+      "ribavirin": {
+        "2014": {
+          "observed": 10166158.65,
+          "upper_bound": 10166158.65
+        },
+        "2015": {
+          "observed": 8100850.33,
+          "upper_bound": 8100850.33
+        },
+        "2016": {
+          "observed": 4849659.75,
+          "upper_bound": 4849659.75
+        },
+        "2017": {
+          "observed": 2687889.933,
+          "upper_bound": 2687889.933
+        },
+        "2018": {
+          "observed": 3124.5,
+          "upper_bound": 178256.5
+        },
+        "2019": {
+          "observed": 62956.0,
+          "upper_bound": 180144.53
+        },
+        "2020": {
+          "observed": 0.0,
+          "upper_bound": 112306.0
+        },
+        "2021": {
+          "observed": 0.0,
+          "upper_bound": 80621.5
+        },
+        "2022": {
+          "observed": 0.0,
+          "upper_bound": 77797.5
+        },
+        "2023": {
+          "observed": 0.0,
+          "upper_bound": 62561.0
+        }
+      }
+    }
+  }
+}

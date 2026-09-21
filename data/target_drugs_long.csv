@@ -1,0 +1,392 @@
+﻿edition,fy,group,product,drug_name,yakko_class,unit,sheet,total_qty,suppressed
+1,2014,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),1530429.0,False
+1,2014,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),1289890.0,False
+1,2014,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),836489.0,False
+1,2014,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),647467.0,False
+1,2014,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),4571321.0,False
+1,2014,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),3072339.0,False
+1,2014,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),2715761.5,False
+1,2014,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),1542995.9412,False
+1,2014,PI_ifn,simeprevir,ソブリアードカプセル１００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),728577.0,False
+1,2014,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 入院,358853.4,False
+1,2014,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 入院,153304.75,False
+1,2014,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 入院,122428.0,False
+1,2014,PI_ifn,simeprevir,ソブリアードカプセル１００ｍｇ,抗ウイルス剤,,内服薬 入院,98171.0,False
+1,2014,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 入院,61496.0,False
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),236933.073,False
+1,2014,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),175265.111,False
+1,2014,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),132260.46376,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),85251.73,False
+1,2014,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),54082.21,False
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),39206.8,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),19294.0,False
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),14401.40109,False
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),11251.66633,False
+1,2014,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),10464.0,False
+1,2014,IFN_conv,interferon_conventional,オーアイエフ注射用５００万ＩＵ　５００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),8825.0,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),5570.2,False
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),2948.5,False
+1,2014,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),1773.4,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),67131.0,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),20717.0,False
+1,2014,IFN_conv,interferon_conventional,オーアイエフ注射用５００万ＩＵ　５００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),4205.0,False
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),1900.0,False
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+1,2014,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+1,2014,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,24612.493,False
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,10597.981,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 入院,6837.8,False
+1,2014,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 入院,5923.389999999999,False
+1,2014,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 入院,2290.0,False
+1,2014,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 入院,1827.1770000000004,False
+1,2014,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,1421.0,False
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,1144.028,False
+1,2014,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+1,2014,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+1,2014,IFN_conv,interferon_conventional,オーアイエフ注射用５００万ＩＵ　５００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+1,2014,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+1,2014,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),6976700.0,False
+2,2015,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),3544991.0,False
+2,2015,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),2895733.5,False
+2,2015,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),2809278.75,False
+2,2015,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,,内服薬 外来 (院外),1972174.0,False
+2,2015,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),1407653.0,False
+2,2015,PI_ifn,vaniprevir,バニヘップカプセル１５０ｍｇ,抗ウイルス剤,,内服薬 外来 (院外),122194.0,False
+2,2015,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,,内服薬 外来 (院外),99795.0,False
+2,2015,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),2273832.0,False
+2,2015,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),1155180.0,False
+2,2015,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),1150711.0,False
+2,2015,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),1030486.75,False
+2,2015,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,,内服薬 外来 (院内),932501.0,False
+2,2015,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),590824.0,False
+2,2015,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,,内服薬 外来 (院内),75464.0,False
+2,2015,PI_ifn,vaniprevir,バニヘップカプセル１５０ｍｇ,抗ウイルス剤,,内服薬 外来 (院内),35996.0,False
+2,2015,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,,内服薬 入院,127379.0,False
+2,2015,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,,内服薬 入院,105760.0,False
+2,2015,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,,内服薬 入院,105423.0,False
+2,2015,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,,内服薬 入院,87261.33,False
+2,2015,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,,内服薬 入院,69044.0,False
+2,2015,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,,内服薬 入院,53507.0,False
+2,2015,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,,内服薬 入院,12013.0,False
+2,2015,PI_ifn,vaniprevir,バニヘップカプセル１５０ｍｇ,抗ウイルス剤,,内服薬 入院,9773.0,False
+2,2015,PI_ifn,simeprevir,ソブリアードカプセル１００ｍｇ,抗ウイルス剤,,内服薬 入院,3529.0,False
+2,2015,PI_ifn,telaprevir,テラビック錠２５０ｍｇ,抗ウイルス剤,,内服薬 入院,1630.0,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),59524.333,False
+2,2015,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),41951.64899999999,False
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),40447.157,False
+2,2015,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),37941.6,False
+2,2015,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),37022.701,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),18384.5,False
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),6999.200000000001,False
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),5970.99967,False
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),3625.628,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院内),3317.0,False
+2,2015,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),2431.0,False
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),2090.0,False
+2,2015,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,,注射薬 外来 (院内),0.0,True
+2,2015,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),0.0,True
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院内),0.0,True
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),52201.0,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),16612.0,False
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),2699.0,False
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+2,2015,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 外来 (院外),0.0,True
+2,2015,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,16105.099,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 入院,5404.666,False
+2,2015,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,,注射薬 入院,1882.0,False
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,1034.1999999999998,False
+2,2015,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,,注射薬 入院,0.0,True
+2,2015,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,,注射薬 入院,0.0,True
+3,2016,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院外),2000216.0,False
+3,2016,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),1792288.0,False
+3,2016,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),1404379.5,False
+3,2016,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),986637.0,False
+3,2016,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),808545.0,False
+3,2016,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院外),492403.0,False
+3,2016,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),251798.0,False
+3,2016,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),157922.0,False
+3,2016,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),79137.0,False
+3,2016,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),887691.0,False
+3,2016,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院内),800412.0,False
+3,2016,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),563230.0,False
+3,2016,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),407325.0,False
+3,2016,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),399074.0,False
+3,2016,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院内),136513.0,False
+3,2016,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),99540.0,False
+3,2016,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),69713.0,False
+3,2016,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),49985.0,False
+3,2016,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,68483.0,False
+3,2016,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,59367.25,False
+3,2016,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 入院,33041.0,False
+3,2016,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 入院,29344.0,False
+3,2016,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 入院,22055.0,False
+3,2016,DAA,asunaprevir,スンベプラカプセル１００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,11965.0,False
+3,2016,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,10408.0,False
+3,2016,DAA,daclatasvir,ダクルインザ錠６０ｍｇ,抗ウイルス剤,錠,内服薬 入院,6100.0,False
+3,2016,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,5206.0,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),41528.5,False
+3,2016,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),31324.8,False
+3,2016,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),15186.366,False
+3,2016,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),13851.920000000002,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),13121.0,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),2978.3331,False
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),2699.5,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院内),1854.0,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),1767.0,False
+3,2016,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),762.0,False
+3,2016,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),718.0,False
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),550.6,False
+3,2016,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),539.5,False
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),431.6,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),41361.0,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),13651.0,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),2258.0,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),787.0,False
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+3,2016,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+3,2016,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,10991.4,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,3778.0,False
+3,2016,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,1154.0,False
+3,2016,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,933.0,False
+3,2016,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,428.495,False
+3,2016,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+3,2016,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院外),1265470.0,False
+4,2017,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),784164.0,False
+4,2017,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),723939.0,False
+4,2017,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),626568.0,False
+4,2017,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),515337.0,False
+4,2017,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),494767.0,False
+4,2017,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),392624.0,False
+4,2017,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),320118.0,False
+4,2017,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院内),504379.0,False
+4,2017,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),448028.0,False
+4,2017,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),443435.0,False
+4,2017,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),262945.0,False
+4,2017,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),259493.0,False
+4,2017,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),224442.0,False
+4,2017,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),201383.0,False
+4,2017,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),144900.0,False
+4,2017,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,36611.0,False
+4,2017,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,27375.0,False
+4,2017,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,25111.0,False
+4,2017,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,13747.0,False
+4,2017,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,11818.0,False
+4,2017,DAA,sofosbuvir,ソバルディ錠４００ｍｇ,抗ウイルス剤,錠,内服薬 入院,8626.0,False
+4,2017,DAA,ombitasvir/paritaprevir/ritonavir,ヴィキラックス配合錠,抗ウイルス剤,錠,内服薬 入院,8589.0,False
+4,2017,ribavirin,ribavirin,コペガス錠２００ｍｇ,抗ウイルス剤,錠,内服薬 入院,6868.933,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),31877.5,False
+4,2017,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),25920.3,False
+4,2017,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),9495.954,False
+4,2017,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),9144.0,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),9040.0,False
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),1723.0,False
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),1652.6,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院内),1375.0,False
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),1001.0,False
+4,2017,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),477.0,False
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),469.0,False
+4,2017,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),414.5,False
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+4,2017,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),34456.0,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),10281.0,False
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),1343.0,False
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),499.0,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用１，０００　１，０００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+4,2017,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,8075.0,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,2757.667,False
+4,2017,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,862.0,False
+4,2017,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,696.0,False
+4,2017,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用６００　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_conv,interferon_conventional,イントロンＡ注射用３００　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_conv,interferon_conventional,フエロン注射用６００万　６００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+4,2017,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),2768961.0,False
+5,2018,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),219926.0,False
+5,2018,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院外),206424.0,False
+5,2018,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),1502941.0,False
+5,2018,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),106829.0,False
+5,2018,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),105802.0,False
+5,2018,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),53538.0,False
+5,2018,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,72453.0,False
+5,2018,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,5995.0,False
+5,2018,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,5247.0,False
+5,2018,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,3124.5,False
+5,2018,DAA,elbasvir,エレルサ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,3004.0,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),26544.5,False
+5,2018,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),21433.5,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),7186.0,False
+5,2018,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),6951.0,False
+5,2018,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),6162.5,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院内),1199.0,False
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),1049.0,False
+5,2018,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+5,2018,IFN_peg,peginterferon,ペガシス皮下注４５μｇ　０．５ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),29841.0,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),8176.0,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+5,2018,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,4895.0,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,2498.0,False
+5,2018,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,777.0,False
+5,2018,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,570.0,False
+5,2018,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+5,2018,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),1828276.0,False
+6,2019,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),160649.0,False
+6,2019,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),933667.0,False
+6,2019,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),76789.0,False
+6,2019,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 外来 (院内),60441.0,False
+6,2019,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 外来 (院内),55502.0,False
+6,2019,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),51261.0,False
+6,2019,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,43152.0,False
+6,2019,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 入院,8416.0,False
+6,2019,DAA,grazoprevir,グラジナ錠５０ｍｇ,抗ウイルス剤,錠,内服薬 入院,3873.0,False
+6,2019,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,3443.0,False
+6,2019,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,2515.0,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),20518.5,False
+6,2019,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),15952.0,False
+6,2019,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),5673.9,False
+6,2019,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),5287.3,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),4678.0,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院内),590.0,False
+6,2019,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+6,2019,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+6,2019,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+6,2019,IFN_peg,peginterferon,ペグイントロン皮下注用１５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),22460.0,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),7481.0,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 外来 (院外),0.0,True
+6,2019,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,2498.0,False
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,1281.0,False
+6,2019,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+6,2019,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,IFN_conv,interferon_conventional,スミフェロン注バイアル３００万ＩＵ　３００万国際単位,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+6,2019,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),1450803.0,False
+7,2020,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),118522.0,False
+7,2020,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),707278.0,False
+7,2020,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),48718.0,False
+7,2020,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,26712.0,False
+7,2020,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 入院,2878.0,False
+7,2020,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,1858.0,False
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),15399.0,False
+7,2020,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),12129.00966,False
+7,2020,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),4055.3,False
+7,2020,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),3957.5,False
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),2759.0,False
+7,2020,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+7,2020,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+7,2020,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),16694.0,False
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),5207.0,False
+7,2020,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,1808.0,False
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,986.0,False
+7,2020,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,IFN_peg,peginterferon,ペグイントロン皮下注用１００μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+7,2020,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+8,2021,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),1256581.0,False
+8,2021,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),97701.0,False
+8,2021,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),575452.0,False
+8,2021,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),41120.0,False
+8,2021,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,20577.0,False
+8,2021,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 入院,1399.0,False
+8,2021,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 入院,1246.0,False
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),12198.018,False
+8,2021,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),10314.5,False
+8,2021,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),4601.6,False
+8,2021,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),2932.2,False
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),1685.0,False
+8,2021,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+8,2021,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),14719.0,False
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),3884.0,False
+8,2021,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,1484.0,False
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,862.01,False
+8,2021,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+8,2021,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+8,2021,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+8,2021,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+8,2021,IFN_peg,peginterferon,ペグイントロン皮下注用５０μｇ／０．５ｍＬ用　（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+9,2022,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),993407.0,False
+9,2022,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),56496.0,False
+9,2022,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),444574.0,False
+9,2022,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),22547.0,False
+9,2022,DAA,ledipasvir/sofosbuvir,ハーボニー配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),20851.0,False
+9,2022,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,6094.0,False
+9,2022,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 入院,1222.0,False
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),9434.5,False
+9,2022,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),7980.5,False
+9,2022,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),4126.15,False
+9,2022,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),2946.42,False
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),1163.0,False
+9,2022,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),12590.0,False
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),2586.0,False
+9,2022,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,897.0,False
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,647.0,False
+9,2022,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+9,2022,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+9,2022,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+9,2022,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+10,2023,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),938270.0,False
+10,2023,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 外来 (院外),126695.0,False
+10,2023,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),399564.0,False
+10,2023,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 外来 (院内),51817.0,False
+10,2023,DAA,glecaprevir/pibrentasvir,マヴィレット配合錠,抗ウイルス剤,錠,内服薬 入院,8882.0,False
+10,2023,DAA,sofosbuvir/velpatasvir,エプクルーサ配合錠,抗ウイルス剤,錠,内服薬 入院,2759.0,False
+10,2023,ribavirin,ribavirin,レベトールカプセル２００ｍｇ,抗ウイルス剤,カプセル,内服薬 入院,0.0,True
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),7825.0,False
+10,2023,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),2773.0,False
+10,2023,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 外来 (院内),2063.5,False
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院内),1013.0,False
+10,2023,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 外来 (院内),0.0,True
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),10093.0,False
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 外来 (院外),2742.0,False
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ３００万ＩＵ　３００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+10,2023,IFN_conv,interferon_conventional,スミフェロン注ＤＳ６００万ＩＵ　６００万国際単位,その他の生物学的製剤,筒,注射薬 入院,0.0,True
+10,2023,IFN_peg,peginterferon,ペガシス皮下注９０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+10,2023,IFN_peg,peginterferon,ペガシス皮下注１８０μｇ　１ｍＬ,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+10,2023,IFN_conv,interferon_conventional,フエロン注射用３００万　３００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True
+10,2023,IFN_conv,interferon_conventional,フエロン注射用１００万　１００万国際単位（溶解液付）,その他の生物学的製剤,瓶,注射薬 入院,0.0,True

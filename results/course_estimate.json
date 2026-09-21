@@ -1,0 +1,302 @@
+{
+  "note": "ESTIMATE only. Approximate interferon-free DAA treatment courses = dispensed quantity / units_per_course, summed over one anchor product per regimen to avoid double-counting co-administered drugs. Not observed patient counts.",
+  "assumptions_source": "data/daa_course_assumptions.csv (Japanese package inserts; JSH hepatitis C guideline)",
+  "estimated_courses_by_fy": {
+    "2014": 13404.5,
+    "2015": 89858.3,
+    "2016": 60598.0,
+    "2017": 35291.5,
+    "2018": 30472.6,
+    "2019": 20275.1,
+    "2020": 15052.1,
+    "2021": 12711.6,
+    "2022": 9799.4,
+    "2023": 10174.2
+  },
+  "estimated_courses_by_fy_longer_duration": {
+    "2014": 13404.5,
+    "2015": 89858.3,
+    "2016": 60598.0,
+    "2017": 32902.6,
+    "2018": 21852.8,
+    "2019": 14354.2,
+    "2020": 10700.0,
+    "2021": 9027.4,
+    "2022": 6792.7,
+    "2023": 6423.1
+  },
+  "estimated_total_courses_fy2014_2023": 297637.1,
+  "estimated_total_courses_fy2014_2023_range": [
+    265913.7,
+    297637.1
+  ],
+  "peak_fy": 2015,
+  "peak_estimated_courses": 89858.3,
+  "peginterferon": {
+    "note": "ESTIMATE only. Peginterferon courses = dispensed syringes / units_per_course (one syringe per weekly dose). Includes the patients who also received a first-generation protease inhibitor, since those were always added to peginterferon.",
+    "assumptions_source": "data/ifn_course_assumptions.csv",
+    "units_per_course": 48.0,
+    "units_per_course_alt": 24.0,
+    "estimated_courses_by_fy": {
+      "2014": 12902.8,
+      "2015": 2730.8,
+      "2016": 701.8,
+      "2017": 441.2,
+      "2018": 295.1,
+      "2019": 228.4,
+      "2020": 166.9,
+      "2021": 157.0,
+      "2022": 147.3,
+      "2023": 100.8
+    },
+    "estimated_courses_by_fy_shorter_regimen": {
+      "2014": 25805.5,
+      "2015": 5461.7,
+      "2016": 1403.7,
+      "2017": 882.3,
+      "2018": 590.1,
+      "2019": 456.7,
+      "2020": 333.9,
+      "2021": 313.9,
+      "2022": 294.7,
+      "2023": 201.5
+    },
+    "estimated_total_courses": 17872.0,
+    "estimated_total_courses_range": [
+      17872.0,
+      35744.0
+    ]
+  },
+  "combined_treatment_volume": {
+    "note": "ESTIMATE only. Interferon-free DAA courses + peginterferon courses, i.e. an approximate national hepatitis-C antiviral treatment volume on a common scale. Ribavirin is excluded because it accompanied both interferon-based and interferon-free regimens.",
+    "estimated_courses_by_fy": {
+      "2014": 26307.3,
+      "2015": 92589.1,
+      "2016": 61299.8,
+      "2017": 35732.7,
+      "2018": 30767.6,
+      "2019": 20503.4,
+      "2020": 15219.0,
+      "2021": 12868.5,
+      "2022": 9946.8,
+      "2023": 10274.9
+    },
+    "peak_fy": 2015,
+    "peak_estimated_courses": 92589.1,
+    "fy_first_estimated_courses": 26307.3,
+    "fy_last_estimated_courses": 10274.9,
+    "pct_change_peak_to_last": -88.9,
+    "daa_share_by_fy": {
+      "2014": 0.5095,
+      "2015": 0.9705,
+      "2016": 0.9886,
+      "2017": 0.9877,
+      "2018": 0.9904,
+      "2019": 0.9889,
+      "2020": 0.989,
+      "2021": 0.9878,
+      "2022": 0.9852,
+      "2023": 0.9902
+    }
+  },
+  "censoring_upper_bound": {
+    "daa_estimated_courses_by_fy": {
+      "2014": 13404.5,
+      "2015": 89858.3,
+      "2016": 60598.0,
+      "2017": 36173.9,
+      "2018": 36179.3,
+      "2019": 27698.7,
+      "2020": 20380.7,
+      "2021": 16536.9,
+      "2022": 13255.9,
+      "2023": 13157.7
+    },
+    "combined_estimated_courses_by_fy": {
+      "2014": 26348.9,
+      "2015": 92651.5,
+      "2016": 61341.5,
+      "2017": 36677.5,
+      "2018": 36536.8,
+      "2019": 27989.4,
+      "2020": 20610.0,
+      "2021": 16756.2,
+      "2022": 13444.8,
+      "2023": 13300.1
+    },
+    "combined_peak_fy": 2015,
+    "combined_peak_estimated_courses": 92651.5,
+    "combined_pct_change_peak_to_last": -85.6,
+    "daa_share_by_fy": {
+      "2014": 0.5087,
+      "2015": 0.9699,
+      "2016": 0.9879,
+      "2017": 0.9863,
+      "2018": 0.9902,
+      "2019": 0.9896,
+      "2020": 0.9889,
+      "2021": 0.9869,
+      "2022": 0.9859,
+      "2023": 0.9893
+    },
+    "note": "ESTIMATE and BOUND only. Same course conversion applied to the upper-bound dispensing series from build_dataset.py, in which every cell that NDB Open Data does not publish (product below the class listing cap, or total shown as '-') is set to the maximum quantity it could contain. Actual values lie between the baseline and this bound.",
+    "daa_share_difference_vs_baseline_pp": {
+      "2014": -0.08,
+      "2015": -0.06,
+      "2016": -0.07,
+      "2017": -0.14,
+      "2018": -0.02,
+      "2019": 0.07,
+      "2020": -0.01,
+      "2021": -0.09,
+      "2022": 0.07,
+      "2023": -0.09
+    }
+  },
+  "per_product": {
+    "asunaprevir": {
+      "units_per_course": 336.0,
+      "is_anchor": false,
+      "courses_by_fy": {
+        "2014": 13347.193452380952,
+        "2015": 27846.10714285714,
+        "2016": 1907.3839285714287,
+        "2017": 0.0,
+        "2018": 0.0,
+        "2019": 0.0,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "daclatasvir": {
+      "units_per_course": 168.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 13404.517507142857,
+        "2015": 28295.70238095238,
+        "2016": 1950.0654761904761,
+        "2017": 0.0,
+        "2018": 0.0,
+        "2019": 0.0,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "elbasvir": {
+      "units_per_course": 84.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 0.0,
+        "2016": 1599.142857142857,
+        "2017": 7509.678571428572,
+        "2018": 673.1190476190476,
+        "2019": 0.0,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "glecaprevir/pibrentasvir": {
+      "units_per_course": 168.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 0.0,
+        "2016": 0.0,
+        "2017": 7166.577380952381,
+        "2018": 25859.255952380954,
+        "2019": 16696.994047619046,
+        "2020": 13004.720238095239,
+        "2021": 11027.440476190477,
+        "2022": 8595.684523809523,
+        "2023": 8016.166666666667
+      }
+    },
+    "grazoprevir": {
+      "units_per_course": 84.0,
+      "is_anchor": false,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 0.0,
+        "2016": 3188.9285714285716,
+        "2017": 14994.845238095239,
+        "2018": 3800.5714285714284,
+        "2019": 706.8452380952381,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "ledipasvir/sofosbuvir": {
+      "units_per_course": 84.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 35834.5,
+        "2016": 32719.785714285714,
+        "2017": 9405.952380952382,
+        "2018": 3940.1785714285716,
+        "2019": 2867.6309523809523,
+        "2020": 2013.0714285714287,
+        "2021": 1667.4642857142858,
+        "2022": 920.797619047619,
+        "2023": 0.0
+      }
+    },
+    "ombitasvir/paritaprevir/ritonavir": {
+      "units_per_course": 168.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 1114.7142857142858,
+        "2016": 7384.880952380952,
+        "2017": 2819.089285714286,
+        "2018": 0.0,
+        "2019": 0.0,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "sofosbuvir": {
+      "units_per_course": 84.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 24613.345238095237,
+        "2016": 16944.119047619046,
+        "2017": 8390.190476190477,
+        "2018": 0.0,
+        "2019": 0.0,
+        "2020": 0.0,
+        "2021": 0.0,
+        "2022": 0.0,
+        "2023": 0.0
+      }
+    },
+    "sofosbuvir/velpatasvir": {
+      "units_per_course": 84.0,
+      "is_anchor": true,
+      "courses_by_fy": {
+        "2014": 0.0,
+        "2015": 0.0,
+        "2016": 0.0,
+        "2017": 0.0,
+        "2018": 0.0,
+        "2019": 710.4404761904761,
+        "2020": 34.26190476190476,
+        "2021": 16.654761904761905,
+        "2022": 282.9642857142857,
+        "2023": 2157.9880952380954
+      }
+    }
+  }
+}
