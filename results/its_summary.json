@@ -1,0 +1,204 @@
+{
+  "design_note": "NDB begins FY2014, coincident with IFN-free DAA availability; no internal pre-intervention baseline, so a conventional pre/post ITS is not identifiable. Reported below are descriptive segmented and exponential trend models with HAC and bootstrap 95% intervals (n=11 annual observations).",
+  "n_annual_observations": 11,
+  "bootstrap_resamples": 10000,
+  "daa_segmented": {
+    "knot_fy": 2015,
+    "n_obs_up_to_knot": 2,
+    "pre_peak_caution": "The pre-peak segment is informed by only the observations up to the knot; with a knot in the second fiscal year this is a two-point increment, not an estimated trend, and its interval is correspondingly wide. Reported for completeness, not for interpretation as a rate.",
+    "pre_peak_annual_rate_pct": 64.23756910876371,
+    "pre_peak_annual_rate_hac95": [
+      12.050252608086254,
+      140.73108698024765
+    ],
+    "pre_peak_annual_rate_boot95": [
+      -13.549354891412468,
+      154.45708390751795
+    ],
+    "post_peak_annual_rate_pct": -23.75700425058178,
+    "post_peak_annual_rate_boot95": [
+      -27.45145973140107,
+      -19.9057153295536
+    ],
+    "post_peak_slope_p": 3.286959930264648e-16,
+    "n_obs_from_knot": 10,
+    "slope_change_logunits": -0.7673884195091842,
+    "slope_change_hac95": [
+      -1.2114845798836482,
+      -0.32329225913472015
+    ],
+    "slope_change_p": 0.0007071942406831549,
+    "n_obs": 11
+  },
+  "combined_volume_segmented": {
+    "knot_fy": 2015,
+    "n_obs_up_to_knot": 2,
+    "pre_peak_caution": "The pre-peak segment is informed by only the observations up to the knot; with a knot in the second fiscal year this is a two-point increment, not an estimated trend, and its interval is correspondingly wide. Reported for completeness, not for interpretation as a rate.",
+    "pre_peak_annual_rate_pct": 169.6642380982582,
+    "pre_peak_annual_rate_hac95": [
+      110.13351652778934,
+      246.05998372228893
+    ],
+    "pre_peak_annual_rate_boot95": [
+      87.79317404847599,
+      271.1526045122033
+    ],
+    "post_peak_annual_rate_pct": -23.362951684973197,
+    "post_peak_annual_rate_boot95": [
+      -25.973319596248917,
+      -20.668002998992698
+    ],
+    "post_peak_slope_p": 1.8790936389289757e-27,
+    "n_obs_from_knot": 10,
+    "slope_change_logunits": -1.2580970032476206,
+    "slope_change_hac95": [
+      -1.550103776235624,
+      -0.9660902302596173
+    ],
+    "slope_change_p": 3.0558577401170915e-17,
+    "n_obs": 11
+  },
+  "combined_volume_note": "Segmented model on the combined estimated treatment volume (interferon-free DAA courses + peginterferon courses) from results/course_estimate.json. Estimates, not observed patient counts.",
+  "peginterferon_decay": {
+    "drug": "peginterferon",
+    "fy_used": [
+      2014,
+      2024
+    ],
+    "fy_used_note": "Fiscal years with positive dispensing; the series remains positive through the final fiscal year.",
+    "years_with_year_on_year_increase": [],
+    "annual_change_pct": -33.83901764303001,
+    "annual_change_hac95": [
+      -43.97560529560528,
+      -21.86840019360482
+    ],
+    "annual_change_boot95": [
+      -41.51642410258588,
+      -25.10788099510304
+    ],
+    "annual_change_p": 1.1254762291949602e-06,
+    "n_obs": 11
+  },
+  "conventional_ifn_decay": {
+    "drug": "interferon_conventional",
+    "fy_used": [
+      2014,
+      2024
+    ],
+    "fy_used_note": "Fiscal years with positive dispensing; the series remains positive through the final fiscal year.",
+    "years_with_year_on_year_increase": [],
+    "annual_change_pct": -24.993247094818372,
+    "annual_change_hac95": [
+      -25.870784775363365,
+      -24.105321170199257
+    ],
+    "annual_change_boot95": [
+      -25.789332350739578,
+      -24.203543143863545
+    ],
+    "annual_change_p": 0.0,
+    "n_obs": 11
+  },
+  "ribavirin_decay": {
+    "drug": "ribavirin",
+    "fy_used": [
+      2014,
+      2024
+    ],
+    "fy_used_note": "Fiscal years with positive dispensing; the series remains positive through the final fiscal year.",
+    "years_with_year_on_year_increase": [
+      2019
+    ],
+    "annual_change_pct": -50.34194268270864,
+    "annual_change_hac95": [
+      -64.98042734640492,
+      -29.584444649862284
+    ],
+    "annual_change_boot95": [
+      -72.79005670202712,
+      -22.692977696200973
+    ],
+    "annual_change_p": 8.552727870895576e-05,
+    "n_obs": 7
+  },
+  "censoring_upper_bound": {
+    "note": "Same models refitted to the upper-bound series in which every NDB cell that is unpublished (product outside the top-N of its class, or total shown as '-') is set to the largest value it could hide. Gives the least steep post-peak decline compatible with the publication rules; a bound, not an estimate.",
+    "daa_segmented": {
+      "knot_fy": 2015,
+      "n_obs_up_to_knot": 2,
+      "pre_peak_caution": "The pre-peak segment is informed by only the observations up to the knot; with a knot in the second fiscal year this is a two-point increment, not an estimated trend, and its interval is correspondingly wide. Reported for completeness, not for interpretation as a rate.",
+      "pre_peak_annual_rate_pct": 75.78026588700844,
+      "pre_peak_annual_rate_hac95": [
+        23.567241208031774,
+        150.05577184723126
+      ],
+      "pre_peak_annual_rate_boot95": [
+        -1.9642925344863533,
+        171.5486503670515
+      ],
+      "post_peak_annual_rate_pct": -22.180625515947895,
+      "post_peak_annual_rate_boot95": [
+        -25.642036302642705,
+        -18.55634316306986
+      ],
+      "post_peak_slope_p": 5.473951794478107e-19,
+      "n_obs_from_knot": 10,
+      "slope_change_logunits": -0.8148442962080811,
+      "slope_change_hac95": [
+        -1.2213154265745676,
+        -0.4083731658415945
+      ],
+      "slope_change_p": 8.526459260268058e-05,
+      "n_obs": 11
+    },
+    "combined_volume_segmented": {
+      "knot_fy": 2015,
+      "n_obs_up_to_knot": 2,
+      "pre_peak_caution": "The pre-peak segment is informed by only the observations up to the knot; with a knot in the second fiscal year this is a two-point increment, not an estimated trend, and its interval is correspondingly wide. Reported for completeness, not for interpretation as a rate.",
+      "pre_peak_annual_rate_pct": 187.86012917480446,
+      "pre_peak_annual_rate_hac95": [
+        140.32135252031725,
+        244.80271145082574
+      ],
+      "pre_peak_annual_rate_boot95": [
+        117.6433421571501,
+        281.4484226649576
+      ],
+      "post_peak_annual_rate_pct": -21.65977426028085,
+      "post_peak_annual_rate_boot95": [
+        -23.600647289683135,
+        -19.630076947123985
+      ],
+      "post_peak_slope_p": 9.339819063243023e-56,
+      "n_obs_from_knot": 10,
+      "slope_change_logunits": -1.301413489804244,
+      "slope_change_hac95": [
+        -1.5103641289266045,
+        -1.0924628506818834
+      ],
+      "slope_change_p": 2.841562431788434e-34,
+      "n_obs": 11
+    },
+    "peginterferon_decay": {
+      "drug": "peginterferon",
+      "fy_used": [
+        2014,
+        2024
+      ],
+      "fy_used_note": "Fiscal years with positive dispensing; the series remains positive through the final fiscal year.",
+      "years_with_year_on_year_increase": [],
+      "annual_change_pct": -31.194155119215196,
+      "annual_change_hac95": [
+        -41.56990755119989,
+        -18.97592334109269
+      ],
+      "annual_change_boot95": [
+        -38.97592144181715,
+        -22.4565733153186
+      ],
+      "annual_change_p": 7.357227403567973e-06,
+      "n_obs": 11
+    }
+  },
+  "ribavirin_note": "Ribavirin accompanied both peginterferon-based therapy and the interferon-free sofosbuvir + ribavirin regimen, so this decay rate describes the combined decline of both regimens and is not evidence about interferon-based therapy alone."
+}
