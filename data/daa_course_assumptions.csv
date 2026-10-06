@@ -1,0 +1,10 @@
+product,brand_jp,tablets_per_day,weeks,units_per_course,is_anchor,coadmin_with,note
+sofosbuvir,ソバルディ,1,12,84,1,ribavirin,GT2 sof+RBV 12週 1錠/日（添付文書・JSHガイドライン）
+ledipasvir/sofosbuvir,ハーボニー,1,12,84,1,,GT1 12週 1錠/日（添付文書）
+daclatasvir,ダクルインザ,1,24,168,1,asunaprevir,GT1 dac+asu 24週 dac 1錠/日（添付文書）; asunaprevirはコース数計上から除外（同一患者の併用薬）
+asunaprevir,スンベプラ,2,24,336,0,daclatasvir,daclatasvirと同一レジメンのため二重計上回避で非アンカー
+glecaprevir/pibrentasvir,マヴィレット,3,8,168,1,,初回・非代償性肝硬変なし8週 3錠/日（添付文書）; 12週想定では252
+sofosbuvir/velpatasvir,エプクルーサ,1,12,84,1,,12週 1錠/日（DAA不成功例24週）（添付文書）
+elbasvir,エレルサ,1,12,84,1,grazoprevir,elb+grz 12週 elb 1錠/日（添付文書）; grazoprevirは非アンカー
+grazoprevir,グラジナ,1,12,84,0,elbasvir,elbasvirと同一レジメンのため二重計上回避で非アンカー
+ombitasvir/paritaprevir/ritonavir,ヴィキラックス,2,12,168,1,,12週 2錠/日（添付文書）

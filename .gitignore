@@ -1,0 +1,13 @@
+# Raw NDB Open Data workbooks are large and publicly re-downloadable via
+# scripts/download_ndb.py; keep them out of git. Derived CSVs under data/ are kept.
+data/ndb_raw/
+__pycache__/
+*.pyc
+output/pds_submission/
+output/hepres_submission/
+output/eid_submission/
+output/eid_word_counts.json
+output/jvh_submission/
+output/jvh_word_counts.json
+output/jgh_submission/
+output/jgh_word_counts.json
